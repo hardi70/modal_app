@@ -1,4 +1,5 @@
 class AppStrings {
+  //
   static const String Searchrecipesingredients = "Search recipes, ingredients";
   static const String chicken = "TRY SOMETHING NEW";
   static const String stayle = "Chicken Indian - Style";
